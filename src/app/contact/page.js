@@ -239,11 +239,11 @@ Message: ${message}`;
         answer: 'You can book directly through our website, via our mobile app, or by contacting our 24/7 customer service team at +94 76 123 4567.',
         icon: '📅'
       },
-      { 
-        question: 'What is your cancellation policy?', 
-        answer: 'Cancellations made 48+ hours before check-in receive full refunds. Within 48 hours, we offer 50% refund or rescheduling. No-shows are non-refundable.',
-        icon: '🔄'
-      },
+      // { 
+      //   question: 'What is your cancellation policy?', 
+      //   answer: 'Cancellations made 48+ hours before check-in receive full refunds. Within 48 hours, we offer 50% refund or rescheduling. No-shows are non-refundable.',
+      //   icon: '🔄'
+      // },
       { 
         question: 'Do you offer group discounts?', 
         answer: 'Yes! Groups of 5+ rooms receive 10% off, and 10+ rooms get 15% off. Contact our group sales team for custom packages.',
