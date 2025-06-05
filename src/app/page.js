@@ -5,7 +5,7 @@ import thumbnail from "../../public/images/thumbnail.png";
 import skyline1 from "../../public/images/Skyline-Suite1.jpg";
 import skyline2 from "../../public/images/skyline-suite2.jpg";
 import skyline3 from "../../public/images/skyline-suite3.jpg";
-import cozyCabin1 from "../../public/images/Cozy-cabin1.png";
+import cozyCabin1 from "../../public/images/karjat_villa.jpg";
 import cozyCabin2 from "../../public/images/cozy-cabin2.jpg";
 import cozyCabin3 from "../../public/images/cozy-cabin3.jpeg";
 import cozyCabin4 from "../../public/images/cozy-cabin4.jpg";
@@ -263,7 +263,7 @@ export default function Home() {
             Discover comfort and relaxation Villa's
           </motion.h1>
 
-          {/* <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.3 }}
+          <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.3 }}
             className="flex items-center gap-2 mt-12 w-full max-w-xl p-3" >
             <input type="text" placeholder="Search for a room"
               className="w-full p-2 rounded-full bg-white/50 text-black outline-none hover:bg-white/70 focus:bg-white 
@@ -273,7 +273,7 @@ export default function Home() {
               Explore
             </button>
 
-          </motion.div> */}
+          </motion.div>
 
           {/* Small heading */}
           <motion.h2
